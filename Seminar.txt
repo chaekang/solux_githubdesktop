@@ -1,1 +1,2 @@
 Reset commit 1
+Reset commit 2
